@@ -1,0 +1,16 @@
+.client-input{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    justify-content: center;
+    top: 80vh; bottom: 10vh; left: 0; right: 0;
+    margin: auto;
+}
+
+.message-history{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-self: center;
+    padding: 0 30vw;
+}
